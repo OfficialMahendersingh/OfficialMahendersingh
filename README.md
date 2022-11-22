@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @OfficialMahendersingh
-- 👀 I’m interested in ml.
-- 🌱 I’m currently learning ml.
-- 💞️ I’m looking to collaborate on opensource .
+- 👀 I’m interested in ml and frontend .
+- 🌱 I’m currently learning ml and frontend .
+- 💞️ I’m looking to collaborate on opensource,freelancing and remote work .
 - 📫 How to reach me official.mahendersingh@gmail.com .
 
 <!---
